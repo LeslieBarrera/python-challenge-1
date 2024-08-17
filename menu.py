@@ -52,7 +52,21 @@ menu = {
 
 # 1. Set up order list. Order list will store a list of dictionaries for
 # menu item name, item price, and quantity ordered
+order_list = []
 
+item_name = "Beef Burger"
+item_price = 8.49
+item_quantity = 2
+
+order_item = {
+    "name": item_name,
+    "price": item_price,
+    "quantity": item_quantity
+}
+
+order_list.append(order_item)
+
+print(order_list)
 
 # Launch the store and present a greeting to the customer
 print("Welcome to the variety food truck.")
