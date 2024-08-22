@@ -16,21 +16,10 @@ This project is an interactive ordering system for a food truck menu, designed a
 
 The menu is organized into categories with various items:
 
-- **Snacks**
-  - Chips
-  - Nachos
-
-- **Meals**
-  - Pizza
-  - Burger
-
-- **Drinks**
-  - Soda
-  - Tea
-  - Coffee
-
-- **Desserts**
-  - Cheesecake
+- *Snacks*
+- *Meals*
+- *Drinks*
+- *Desserts*
 
 ## Usage
 
@@ -53,50 +42,22 @@ To use the interactive ordering system:
 
 ## How It Works
 
-1. **Initialization:** An empty order list is created.
-2. **Menu Selection:** Users are prompted to select a menu item. Input is validated to ensure it's a number and exists in the menu.
-3. **Quantity Input:** Users are prompted to enter a quantity. If input is invalid, the default value of 1 is used.
-4. **Order Processing:** Selected items, prices, and quantities are added to the order list.
-5. **Receipt Generation:** The order list is processed to generate and display a formatted receipt with total price.
+**Initialization:** An empty order list is created.
+**Menu Selection:** Users are prompted to select a menu item. Input is validated to ensure it's a number and exists in the menu.
+**Quantity Input:** Users are prompted to enter a quantity. If input is invalid, the default value of 1 is used.
+**Order Processing:** Selected items, prices, and quantities are added to the order list.
+**Receipt Generation:** The order list is processed to generate and display a formatted receipt with total price.
 
 ## Example
 
-*Welcome to the Food Truck!*
-
-*Menu:
-1. *Snacks*
-   - *Chips ($2.00)*
-   - *Nachos ($3.50)*
-2. *Meals*
-   - *Pizza ($8.00)*
-   - *Burger ($5.00)*
-3. *Drinks*
-   - *Soda ($1.50)*
-   - *Tea ($2.00)*
-   - *Coffee ($2.50)*
-4. *Desserts*
-   - *Cheesecake ($4.00)*
-
-*Please enter the number of the category you want to order from:*
-> *2*
-
-*Please enter the number of the item you want to order:*
-> *1*
-
-*Please enter the quantity:*
-> *2*
-
-*Your order:*
-- *Pizza x2*
-
-*Total Price: $16.00*
+![Example](images/example_image.png)
 
 ## Acknowledgments
 
-- Special thanks ChatGPT for assisting with the code improvements, README formatting, and providing guidance throught the development process. 
+- Special thanks to ChatGPT for assisting with the code improvements, README formatting, and providing guidance throughout the development process.
 - The code structure and example formats were influenced by various sources, including educational forums and resources.
-- Developed as part of assigment for AI Boot Camp
-- Special thanks to Firas Obeid for the guidance and support
+- Developed as part of an assignment for AI Boot Camp.
+- Special thanks to Firas Obeid for the guidance and support.
 
 ## Source Attribution
 
