@@ -54,10 +54,10 @@ To use the interactive ordering system:
 
 ## Acknowledgments
 
-- Special thanks to ChatGPT for assisting with the code improvements, README formatting, and providing guidance throughout the development process.
+- ChatGPT was used for code improvements and guidance throughout the development process.
+- Special thanks to Firas Obeid for the guidance and support.
 - The code structure and example formats were influenced by various sources, including educational forums and resources.
 - Developed as part of an assignment for AI Boot Camp.
-- Special thanks to Firas Obeid for the guidance and support.
 
 ## Source Attribution
 
