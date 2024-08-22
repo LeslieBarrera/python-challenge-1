@@ -62,7 +62,6 @@ To use the interactive ordering system:
 ## Source Attribution
 
 - **Code Sources:** All code was developed as part of the assignment unless otherwise specified. External code snippets or resources used are acknowledged in the Acknowledgments section.
-- **Assistance:** Acknowledges the use of ChatGPT for general assistance without implying direct help from instructors.
 
 ## Contact
 
